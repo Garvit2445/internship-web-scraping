@@ -1,4 +1,4 @@
-# internship-web-scraping
+#Code_Alpha
 Web Scraping task for internship
 # Web Scraping Task – Internship
 
